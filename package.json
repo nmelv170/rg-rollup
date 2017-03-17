@@ -1,7 +1,7 @@
 {
   "name": "rg-rollup",
-  "version": "0.1.1",
-  "description": "Clean, Minified, Simple gulp configuration plugin for Rollup",
+  "version": "0.1.3",
+  "description": "Clean, Minified, Simple Gulp configuration plugin for Rollup",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

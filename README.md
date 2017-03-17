@@ -1,2 +1,2 @@
 # Rollup Guide (rg)
-Clean, Minified, Simple gulp configuration plugin for Rollup
+Clean, Minified, Simple Gulp configuration plugin for Rollup

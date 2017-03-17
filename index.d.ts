@@ -1,2 +1,2 @@
-export function rx(): string;
+export function rg(): string;
 export function bundle(): string;
